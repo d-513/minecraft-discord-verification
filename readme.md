@@ -87,10 +87,14 @@ I'm just gonna leave the image here
 
 `embedColor`
 
-The color of the embed sidenav ( [hex](https://www.google.com/search?q=hex+color)
+The color of the embed sidenav ( [hex](https://www.google.com/search?q=hex+color) )
 
 ![](https://i.imgur.com/HpL1Kl9.png)
 
 `embedHeader`
 
 ![](https://i.imgur.com/Hfvn0E8.png)
+
+`embedFooter'
+
+![](https://i.imgur.com/bPYk0o7.png)
