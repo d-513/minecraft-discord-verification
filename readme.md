@@ -22,7 +22,7 @@ Type `npm i` to install all the required packages
 
 To run it, simply type `npm start`. But for now, we need to configure it. 
 
-#### Configuration (discord bot)
+### Configuration (discord bot)
 
 The configuration is in the `config.json` file. Change the values however you like.
 
@@ -31,7 +31,7 @@ The configuration is in the `config.json` file. Change the values however you li
 
 
 
-### Config Explained
+#### Config Explained
 
 
 `token`
