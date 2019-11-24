@@ -40,7 +40,7 @@ Your bot's token. Get it by creating an app at [discord developers](https://disc
 
 [Tutorial on creating an app on discord developers](https://github.com)
 
-``` "token": "YOUR-VERY-LONG-BOT-TOKEN", ```
+```json "token": "YOUR-VERY-LONG-BOT-TOKEN", ```
 
 
 `prefix`
