@@ -84,3 +84,13 @@ I'm just gonna leave the image here
 `idTextCommand`
 
 ![](https://i.imgur.com/z2HI5V3.png)
+
+`embedColor`
+
+The color of the embed sidenav ( [hex](https://www.google.com/search?q=hex+color)
+
+![](https://i.imgur.com/HpL1Kl9.png)
+
+`embedHeader`
+
+![](https://i.imgur.com/Hfvn0E8.png)
