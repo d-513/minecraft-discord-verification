@@ -17,4 +17,4 @@ Open command line and make sure you are in the folder you uploaded
 Type `npm i` to install all the required packages
 To run it, simply type `npm start`. But for now, we need to configure it.
 
-####Configuration
+#### Configuration
