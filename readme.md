@@ -26,7 +26,10 @@ To run it, simply type `npm start`. But for now, we need to configure it.
 
 The configuration is in the `config.json` file. Change the values however you like.
 
+
+
 `token`
+
 Your bot's token. Get it by creating an app at [discord developers](https://discordapp.com/developers) 
 
 [Tutorial on creating an app on discord developers](https://github.com)
