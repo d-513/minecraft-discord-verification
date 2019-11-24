@@ -1,0 +1,40 @@
+# https://github.com/dada513/minecraft-discord-verification
+# version: 1.0.0
+
+
+
+
+
+# MORE HELP WITH CONFIGURATION IN THE README
+# https://github.com/dada513/minecraft-discord-verification
+variables:
+  # CONFIGURATION
+  
+  # The url of the discord bot's web socket
+  # check readme.md for more explanation
+  {bot-url} = "http://localhost:3000"
+  # success message when player links his discord account
+  {successmessage} = "&aSuccessfully linked your discord account."
+  # error message when player already linked his discord account
+  {errormessage} = "&cYou already linked your discord account."
+  # the message when player types /discord alone
+  {invitemessage} = "&bJoin our discord: &ehttps://discord.gg/xxxxx"
+
+
+
+
+# the code
+# i give you the permission to modify everything
+command /discord [<text>]:
+  trigger:
+    if arg 1 is set:
+      if {discordlinked.%player%} is not set: 
+        send a request to "%{bot-url}%?id=%arg 1%"
+        set {_resp} to the last http response
+        send "%{successmessage}%"
+        set {discordlinked.%player%} to "true"
+        stop trigger
+      else:
+        send "%{errormessage}%"
+    else:
+      send "%{invitemessage}%"
