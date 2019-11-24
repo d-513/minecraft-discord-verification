@@ -40,8 +40,6 @@ Your bot's token. Get it by creating an app at [discord developers](https://disc
 
 [Tutorial on creating an app on discord developers](https://github.com)
 
-```json "token": "YOUR-VERY-LONG-BOT-TOKEN", ```
-
 
 `prefix`
 
@@ -70,8 +68,19 @@ Name of the role you want your players to be given after account linking
 
 The command you want your users to get their id's. For example, `!verify` - the command is `verify` and the prefix is `!`
 
+
+#### Now most of stuff will be messages. If you are fine with the defaults, leave them here
+
 `instructionInfo`
 
 I'm just gonna leave the image here
 
 ![](https://i.imgur.com/WaK0AUz.png)
+
+`idText`
+
+![](https://i.imgur.com/lOV4CLL.png)
+
+`idTextCommand`
+
+![](https://i.imgur.com/z2HI5V3.png)
