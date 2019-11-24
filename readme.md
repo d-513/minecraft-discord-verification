@@ -130,4 +130,35 @@ The port adress the bot's webserver will listen to.
 It's MUCH simpler than getting the bot running, so let's start
 
 
-Download Skript
+Download [Skript](https://docs.skunity.com/downloads) and [Reqn](https://forums.skunity.com/resources/reqn.95/)
+Restart the server
+Get the zip you downloaded before and get the `discord.sk` file from the `minecraft` folder.
+Upload it to your minecraft server (plugins/Skript/scripts/)
+Now edit the file to adjust the config.
+
+#### Config
+
+  `{bot-url}`
+  
+  Your nodejs server's url (http://NODEJS-SERVER-ADRESS:WEBSERVER_PORT)
+  
+  `{successmessage}`
+  
+  success message when player links his discord account
+  
+  `{errormessage}`
+  
+  error message when player already linked his discord account
+  
+  `{invitemessage}`
+  
+  the message when player types /discord without parameters
+  
+  
+  
+  # ..and that's it!
+  Restart everything and try this out!
+  1. Go to your discord server and type !verify (or the command and the prefix you choosen)
+  2. Copy the ID bot sent to you
+  3. Go to your minecraft server and type /discord ID
+  If works, congratz! You've successfully set up minecraft-discord-verification. 
