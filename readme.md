@@ -31,7 +31,7 @@ The configuration is in the `config.json` file. Change the values however you li
 
 
 
-
+### Config Explained
 
 
 `token`
