@@ -31,9 +31,14 @@ Your bot's token. Get it by creating an app at [discord developers](https://disc
 
 [Tutorial on creating an app on discord developers](https://github.com)
 
+
 `prefix`
+
 the character before the verification command. For example `!verify`. The prefix is `!`
 
+
 `botstatus`
+
 the bot's playing status
+
 ![](https://i.imgur.com/rqNqiP6.png)
