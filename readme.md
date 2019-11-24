@@ -28,6 +28,12 @@ The configuration is in the `config.json` file. Change the values however you li
 
 
 
+
+
+
+
+
+
 `token`
 
 Your bot's token. Get it by creating an app at [discord developers](https://discordapp.com/developers) 
