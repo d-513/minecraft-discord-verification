@@ -59,3 +59,17 @@ the bot's playing status
 your discord server's id
 
 [how to get it](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
+
+`verifiedRoleName`
+
+Name of the role you want your players to be given after account linking
+
+`verifyCommand`
+
+The command you want your users to get their id's. For example, `!verify` - the command is `verify` and the prefix is `!`
+
+`instructionInfo`
+
+I'm just gonna leave the image here
+
+![](https://i.imgur.com/WaK0AUz.png)
