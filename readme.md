@@ -51,3 +51,11 @@ the character before the verification command. For example `!verify`. The prefix
 the bot's playing status
 
 ![](https://i.imgur.com/rqNqiP6.png)
+
+
+
+`guild`
+
+your discord server's id
+
+[how to get it](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
