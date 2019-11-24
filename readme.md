@@ -33,6 +33,7 @@ The configuration is in the `config.json` file. Change the values however you li
 
 #### Config Explained
 
+The config may be confusing, ask anything in the [issues](https://github.com/dada513/minecraft-discord-verification/issues) tab, or message me on discord (dada513#0001)
 
 `token`
 
@@ -95,6 +96,38 @@ The color of the embed sidenav ( [hex](https://www.google.com/search?q=hex+color
 
 ![](https://i.imgur.com/Hfvn0E8.png)
 
-`embedFooter'
+`embedFooter`
 
 ![](https://i.imgur.com/bPYk0o7.png)
+
+`embedFooterImage`
+
+The image left to the footer (MUST be a direct image link)
+
+![](https://i.imgur.com/SLLV1ts.png)
+
+`embedAuthor`
+
+![](https://i.imgur.com/znA15Pr.png)
+
+`embedAuthorImage`
+
+The image left to the author (MUST be a direct image link)
+
+![](https://i.imgur.com/9UQJ8qs.png)
+
+`webServerPort`
+
+The port adress the bot's webserver will listen to.
+
+
+### THE END OF THE BOT'S CONFIG.
+
+
+2. Installation on the minecraft side
+
+
+It's MUCH simpler than getting the bot running, so let's start
+
+
+Download Skript
