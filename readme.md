@@ -1,4 +1,4 @@
-# NOT FINISHED
+
 # minecraft-discord-verification
 A discord bot and a minecraft skript to link your minecraft server's players discord accounts
 
