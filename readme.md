@@ -1,4 +1,4 @@
-Read #1 before using this
+Read [#1](https://github.com/dada513/minecraft-discord-verification/issues/1) before using this
 # minecraft-discord-verification
 A discord bot and a minecraft skript to link your minecraft server's players discord accounts
 
