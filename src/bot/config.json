@@ -1,0 +1,10 @@
+{
+  "token": "INSERT-BOT-TOKEN-HERE",
+  "guild": "INSERT-GUILD-ID-HERE",
+  "role": "verified",
+  "status": "Hello, world!",
+  "prefix": "!",
+  "verifyCommand": "verify",
+  "port": "3000",
+  "ipwhitelist": "false"
+}
