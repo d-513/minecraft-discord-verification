@@ -1,13 +1,4 @@
 module.exports = function registerCommands(client, config){
-    function makeid(length) {
-        var result           = '';
-        var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-        var charactersLength = characters.length;
-        for ( var i = 0; i < length; i++ ) {
-           result += characters.charAt(Math.floor(Math.random() * charactersLength));
-        }
-        return result;
-    }
     let messages = require(`./messages.json`)
     client.on('message', (message) => {
         if(message.author.id === client.user.id){return;}
