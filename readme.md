@@ -4,3 +4,5 @@
 
 
 
+Archive
+See [old-readme.md](https://github.com/dada513/minecraft-discord-verification/blob/master/OLD-README.md)
