@@ -1,7 +1,6 @@
-Read PR #2
-
-
-
+# THIS IS OUTDATED
+# USE https://www.spigotmc.org/resources/discordsrv.18494/ INSTEAD.
+# I WILL NOT PROVIDE SUPPORT FOR THIS UNLESS I DECIDE TO FINISH THE REWRITE.
 
 
 
